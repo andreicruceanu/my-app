@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.containerForm {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  text-align: center;
+  align-items: center;
+  width: 700px;
+  border: 2px solid red;
+  padding: 50px 0px;
+}
+.emailContainer {
+  padding: 10px 0px;
+}
+.emailContainer label {
+  font-size: 18px;
+  margin-right: 9px;
+}
+.emailContainer input {
+  padding: 2px;
+  font-size: 18px;
+}
+.passwordContainer {
+  padding: 10px 0px;
+}
+.passwordContainer label {
+  font-size: 18px;
+  margin-right: 9px;
+}
+.passwordContainer input {
+  padding: 2px;
+  font-size: 18px;
+}
+#btn-Login {
+  padding: 5px 15px;
+  margin-top: 20px;
+  cursor: pointer;
+}
