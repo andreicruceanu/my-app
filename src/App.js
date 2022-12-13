@@ -6,7 +6,7 @@ class App extends React.Component {
   constructor() {
     super();
     this.state = {
-      message: "Acesta este un mesaj",
+      message: "Acesta este un mesaj meu",
       obiectul: {},
     };
   }
