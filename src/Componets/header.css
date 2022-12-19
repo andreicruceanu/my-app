@@ -1,0 +1,13 @@
+.login {
+  font-size: 18px;
+  color: black;
+  font-weight: 600;
+  text-decoration: none;
+  font-family: sans-serif;
+  margin-right: 15px;
+}
+.count-cart {
+  margin-left: 5px;
+  font-size: 17px;
+  font-weight: bold;
+}
